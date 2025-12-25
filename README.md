@@ -32,35 +32,6 @@ class SalmanKarim:
 
 ---
 
-## 🔥 My Most Unhinged Projects
-
-### 🤖 [Travel Planner Agent](https://github.com/Salman-Pixel/travel-planner)
-**What it does:** Multiple AI agents argue with each other to plan your perfect trip  
-**Tech:** LangGraph + FastAPI + SQLite  
-**Vibe:** Your personal travel agency, but it's all robots
-
-### 🏔️ [Hunza Itinerary RAG](https://github.com/Salman-Pixel/hunza_rag/)
-**What it does:** AI that reads tourist PDFs and actually cites its sources (novel concept, I know)  
-**Tech:** Python + RAG + Embeddings  
-**Vibe:** ChatGPT but it actually read the manual
-
-### 🌐 [Gulmit.info](https://gulmit.info)
-**What it does:** Full tourism platform with AI content pipelines because static content is for the weak  
-**Tech:** Next.js + Firebase + Cloudflare  
-**Vibe:** When you want your tourism site to load faster than your attention span
-
-### 📱 One-Stop Shop App
-**What it does:** On-demand home services marketplace with real-time tracking  
-**Tech:** React Native + Node.js + MongoDB  
-**Vibe:** Uber but for literally everything else
-
-### 🚗 [Uber 2.0](https://github.com/Salman-Pixel/Uber-Drive-Order-Food/tree/master)
-**What it does:** Ride-booking clone because I wanted to see if I could  
-**Tech:** React Native + Google Maps  
-**Vibe:** "Mom, can we get Uber?" "We have Uber at home"
-
----
-
 ## 💼 Where I've Caused Controlled Chaos
 
 **🏛️ STZA — AI & Digital Solutions Engineer** *(Oct 2025 – Now)*  
