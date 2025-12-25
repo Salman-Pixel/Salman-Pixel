@@ -2,8 +2,6 @@
 
 **AI Engineer @ Pakistan's Special Technology Zones Authority** where I'm teaching machines to automate government bureaucracy (yes, really).
 
-I make intelligent systems that don't just work—they *vibe*. From multi-agent AI orchestrations to full-stack apps that scale, I'm here building the future one API call at a time.
-
 ---
 
 ## ⚡ The Cool Sh*t I Build
