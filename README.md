@@ -84,7 +84,7 @@ Shipped a React Native app with AI chatbots and real-time booking. Survived prod
 
 <div align="center">
 
-### 💭 "Code is poetry, but AI is jazz—structured chaos that somehow works"
+### 💭 "Code is poetry, but AI is jazz; structured chaos that somehow works"
 
 **Open to collabs on anything AI, web, or just plain interesting 🚀**
 
@@ -95,12 +95,12 @@ Shipped a React Native app with AI chatbots and real-time booking. Survived prod
 <details>
 <summary><b>🎮 Fun Facts About Me</b></summary>
 
-- 🎯 I once debugged code for 6 hours. The bug was a typo in a variable name.
-- 🏔️ I build tourism platforms for my hometown because why not
-- 🤖 My AI agents sometimes give better advice than my friends
-- ☕ Coffee-to-code ratio: 1:1000 lines
-- 🌙 Night owl who commits at 3 AM (sorry, teammates)
-- 🎸 When code breaks, I break guitar strings
+- I once debugged code for 6 hours. The bug was a typo in a variable name.
+- I build tourism platforms for my hometown because why not
+- My AI agents sometimes give better advice than my friends
+- Coffee-to-code ratio: 1:1000 lines
+- Night owl who commits at 3 AM (sorry, teammates)
+- When code breaks, I break guitar strings
 
 </details>
 
