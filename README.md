@@ -105,17 +105,6 @@ Shipped a React Native app with AI chatbots and real-time booking. Survived prod
 
 ---
 
-## 📊 The Numbers (Because Why Not)
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Salman-Pixel&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Salman-Pixel&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Currently Obsessed With
 
 - 🧠 Multi-agent systems that actually cooperate (unlike humans)
@@ -127,7 +116,7 @@ Shipped a React Native app with AI chatbots and real-time booking. Survived prod
 
 ## 🌐 Find Me On The Internet
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://salmankarim.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://salmankarim.is-a.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-pixel/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ctrlsalmany)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/salmnkrim)
@@ -144,8 +133,6 @@ Shipped a React Native app with AI chatbots and real-time booking. Survived prod
 <div align="center">
 
 ### 💭 "Code is poetry, but AI is jazz—structured chaos that somehow works"
-
-![Visitor Count](https://profile-counter.glitch.me/Salman-Pixel/count.svg)
 
 **Open to collabs on anything AI, web, or just plain interesting 🚀**
 
