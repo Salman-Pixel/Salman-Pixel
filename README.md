@@ -1,4 +1,4 @@
-# 🚀 Yo, I'm Salman — I Build Stuff That Thinks
+# 🚀 Yo, I'm Salman & I Build Stuff That Thinks
 
 **AI Engineer @ Pakistan's Special Technology Zones Authority** where I'm teaching machines to automate government bureaucracy (yes, really).
 
