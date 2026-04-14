@@ -1,6 +1,6 @@
 # 🚀 Yo, I'm Salman. I Build Stuff That Thinks
 
-**AI Engineer @ Pakistan's Special Technology Zones Authority** where I'm teaching machines to automate government bureaucracy (yes, really).
+**ML Engineer @Medical Guardian** where I'm teaching machines to learn preventing fall risks in elderly (yes, really).
 
 ---
 
@@ -31,8 +31,10 @@ class SalmanKarim:
 ---
 
 ## 💼 Where I've Caused Controlled Chaos
+**🏛️ Medical Guardian — ML Engineer** *(February 2026 – Now)*  
+Making PERS devices smart with Machine Learning. Yes, I'm teaching Machines and definitely not boring.
 
-**🏛️ STZA — AI & Digital Solutions Engineer** *(Oct 2025 – Now)*  
+**🏛️ STZA — AI & Digital Solutions Engineer** *(Oct 2025 – February 2026)*  
 Making government systems smart with LangChain, RAG, and n8n. Yes, I'm automating bureaucracy. No, it's not boring.
 
 **🚀 Beyond Future Group — Software Engineer** *(Jun 2024 – Sep 2025)*  
