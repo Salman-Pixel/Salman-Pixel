@@ -8,9 +8,10 @@
 ```python
 class SalmanKarim:
     def __init__(self):
-        self.role = "AI Software Engineer"
-        self.current_mission = "Automating Pakistan's tech ecosystem"
+        self.role = "ML Engineer"
+        self.current_mission = "Teaching PERS devices to be extra smart."
         self.stack = {
+            "ml_brain": ["XGBoost", "RandomForest", "MCDA", "KNN"],
             "ai_brain": ["LangChain", "LangGraph", "RAG", "FastAPI"],
             "frontend_magic": ["Next.js", "React", "React Native", "TailwindCSS"],
             "backend_power": ["Python", "Node.js", "Firebase", "MongoDB"],
@@ -20,7 +21,7 @@ class SalmanKarim:
     def daily_routine(self):
         return [
             "☕ Coffee",
-            "🤖 Train AI agents",
+            "🤖 Train ML Models",
             "💻 Ship production code",
             "🔥 Break something",
             "🛠️ Fix it (mostly)",
@@ -31,7 +32,7 @@ class SalmanKarim:
 ---
 
 ## 💼 Where I've Caused Controlled Chaos
-**🏛️ Medical Guardian — ML Engineer** *(February 2026 – Now)*  
+**🏥 Medical Guardian — ML Engineer** *(February 2026 – Now)*  
 Making PERS devices smart with Machine Learning. Yes, I'm teaching Machines and definitely not boring.
 
 **🏛️ STZA — AI & Digital Solutions Engineer** *(Oct 2025 – February 2026)*  
