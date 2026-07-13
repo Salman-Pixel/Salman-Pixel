@@ -1,10 +1,10 @@
-## I Build Stuff That Thinks. 🚀
+## 🚀 Building Stuff That Thinks.
 
 **ML Engineer @Medical Guardian** — teaching machines to predict fall risks in elderly patients. Yes, really. No, it's not boring.
 
 ---
 
-## ⚡ I Build
+## ⚡ I Build:
 ```python
 class SalmanKarim:
     def __init__(self):
